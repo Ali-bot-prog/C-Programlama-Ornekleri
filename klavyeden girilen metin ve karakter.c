@@ -15,7 +15,7 @@
     puts("Bir Karakter Giriniz (Ornek a,b,c vb...) :");
     scanf("%c",&karakter);
 
-    for (i=0;metin[i]!='';i++)
+    for (i=0;metin[i]!='burada bir hata var(emmpty character constant hatası ama çözümü bulamadım)';i++)
     {
         if(metin[i]==karakter)
             esle++;
